@@ -1,0 +1,17 @@
+#Greenfoot properties
+#Thu Nov 03 19:57:27 CDT 2016
+class.FlappyWorld.superclass=greenfoot.World
+simulation.speed=40
+mainWindow.width=850
+class.FlappyWorld.image=space.jpg
+class.Score.superclass=greenfoot.Actor
+project.charset=UTF-8
+version=2.8.0
+world.lastInstantiated=FlappyWorld
+class.GameOver.superclass=greenfoot.Actor
+mainWindow.y=40
+class.Flappy.superclass=greenfoot.Actor
+mainWindow.x=40
+mainWindow.height=600
+class.Pipe.superclass=greenfoot.Actor
+class.Flappy.image=frame-1.png
